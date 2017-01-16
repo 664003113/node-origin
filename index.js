@@ -13,7 +13,7 @@ server.listen('3000', () => {
 });
 
 process.on('SIGINT', () => {
-  console.log('http exiting...');
+  console.log('server exiting...');
   server.close(() => {
     console.log('server closed');
   });
