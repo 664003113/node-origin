@@ -1,7 +1,7 @@
 {
-  "name": "node-jwt",
+  "name": "node-origin",
   "version": "1.0.0",
-  "description": "",
+  "description": "node origin",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
