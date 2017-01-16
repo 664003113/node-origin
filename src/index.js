@@ -4,7 +4,7 @@ const http = require('http');
 const jwt = require('jsonwebtoken');
 const qs = require('querystring');
 
-const config = require('./config/');
+const config = require('../src/config/');
 
 const server = http.createServer();
 

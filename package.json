@@ -4,7 +4,7 @@
   "description": "node origin",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node ./src/index.js",
     "test": "ava"
   },
   "author": "zhanggj",
